@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: white;
+    list-style: none;
+    color: white;
+}
+
+body {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: white;
+    max-width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+/*
+img{
+    max-width: 10%;
+    max-height: 10%;
+}
+*/
+
+header {
+    background-image: url();
+    background-color: white;
+    height: 100px;
+}
+
+button {
+    border-radius: 15px;
+    /* padding-top: 5px;
+    padding-left: 30px;
+    padding-bottom: 15px;
+    padding-right: 5px;
+    */
+    padding: 3px 3px 3px 3px;
+    margin-left: 40px;
+
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav button {
+    display: inline;
+    margin-right: 20px;
+    border-radius: 8px;
+    padding: 3px 3px 3px 3px;
+    margin-left: 40px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: xx-small;
+    font-weight: bold;
+}
+
+main {}
+
+#arriba {
+    background-color: rgb(10, 72, 10);
+    text-align: center;
+    width: 100%;
+}
+
+#enmedio {
+    background-color: brown;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    border: 10px;
+    color: white;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+
+}
+
+#abajo {
+    background-color: brown;
+    text-align: center;
+    height: 300px;
+    width: 100%;
+    border: 10px;
+    color: white;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+
+}
+
+hr {
+    padding: 10px;
+}
+
+footer {
+    background-color: white;
+    height: 150px;
+    width: 100%;
+}
+
+footer h3 {
+    color: black;
+    font-size: 7px;
+    text-align: left;
+}
+
+footer div img {
+    width: 20px;
+    height: 20px;
+}
+
+section {}
+
+aside {
+    background-color: brown;
+    height: 300px;
+    width: 30%;
+    float: right;
+
+}
+
+div {
+    width: 20%;
+}
+
+div img {
+    width: 100%;
+    float: left;
+    height: 100px;
+}
+
+header h3 {
+    float: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h5 {
+    font-size: 8px;
+}
+
+#img1 {
+    float: left;
+    height: 250px;
+    width: 350px;
+
+}
+
+#img2 {
+    float: right;
+    height: 250px;
+    width: 350px;
+}
